@@ -1,0 +1,404 @@
+[
+  {
+    "workflow": "Google Sheets → Slack Automation",
+    "platform": "YouTube",
+    "popularity_metrics": {"views": 18400, "likes": 920, "comments": 112},
+    "country": "US",
+    "source_url": "https://youtu.be/yt1",
+    "source_metadata": {"channel": "n8n tutorials"}
+  },
+  {
+    "workflow": "Automating Gmail with n8n",
+    "platform": "YouTube",
+    "popularity_metrics": {"views": 27650, "likes": 1204, "comments": 188},
+    "country": "US",
+    "source_url": "https://youtu.be/yt2",
+    "source_metadata": {"channel": "Automation Pro"}
+  },
+  {
+    "workflow": "WhatsApp Reminders Workflow",
+    "platform": "YouTube",
+    "popularity_metrics": {"views": 32210, "likes": 1540, "comments": 201},
+    "country": "US",
+    "source_url": "https://youtu.be/yt3",
+    "source_metadata": {"channel": "n8n lab"}
+  },
+  {
+    "workflow": "Slack to Notion Sync",
+    "platform": "YouTube",
+    "popularity_metrics": {"views": 15230, "likes": 640, "comments": 77},
+    "country": "US",
+    "source_url": "https://youtu.be/yt4",
+    "source_metadata": {"channel": "Workflow Hub"}
+  },
+  {
+    "workflow": "Airtable → Slack Alerts",
+    "platform": "YouTube",
+    "popularity_metrics": {"views": 23890, "likes": 980, "comments": 102},
+    "country": "US",
+    "source_url": "https://youtu.be/yt5",
+    "source_metadata": {"channel": "DataOps"}
+  },
+  {
+    "workflow": "Trello Task Reminders",
+    "platform": "YouTube",
+    "popularity_metrics": {"views": 11290, "likes": 510, "comments": 64},
+    "country": "US",
+    "source_url": "https://youtu.be/yt6",
+    "source_metadata": {"channel": "PM Tricks"}
+  },
+  {
+    "workflow": "Stripe Payments → Slack",
+    "platform": "YouTube",
+    "popularity_metrics": {"views": 40110, "likes": 2110, "comments": 255},
+    "country": "US",
+    "source_url": "https://youtu.be/yt7",
+    "source_metadata": {"channel": "SaaS Ops"}
+  },
+  {
+    "workflow": "GitHub Issues → Telegram",
+    "platform": "YouTube",
+    "popularity_metrics": {"views": 16770, "likes": 720, "comments": 91},
+    "country": "US",
+    "source_url": "https://youtu.be/yt8",
+    "source_metadata": {"channel": "DevOps Tube"}
+  },
+  {
+    "workflow": "RSS → Slack News Bot",
+    "platform": "YouTube",
+    "popularity_metrics": {"views": 13980, "likes": 630, "comments": 70},
+    "country": "US",
+    "source_url": "https://youtu.be/yt9",
+    "source_metadata": {"channel": "News Automator"}
+  },
+  {
+    "workflow": "Webhook → Google Sheets Logger",
+    "platform": "YouTube",
+    "popularity_metrics": {"views": 20550, "likes": 880, "comments": 120},
+    "country": "US",
+    "source_url": "https://youtu.be/yt10",
+    "source_metadata": {"channel": "n8n lab"}
+  },
+  {
+    "workflow": "Calendly → Google Calendar Sync",
+    "platform": "YouTube",
+    "popularity_metrics": {"views": 12800, "likes": 540, "comments": 66},
+    "country": "IN",
+    "source_url": "https://youtu.be/yt11",
+    "source_metadata": {"channel": "Automation Pro"}
+  },
+  {
+    "workflow": "Zoom → Slack Meeting Summaries",
+    "platform": "YouTube",
+    "popularity_metrics": {"views": 22110, "likes": 1090, "comments": 140},
+    "country": "IN",
+    "source_url": "https://youtu.be/yt12",
+    "source_metadata": {"channel": "Workflow Hub"}
+  },
+  {
+    "workflow": "OpenAI Assistant → Slack Bot",
+    "platform": "YouTube",
+    "popularity_metrics": {"views": 29800, "likes": 1890, "comments": 210},
+    "country": "IN",
+    "source_url": "https://youtu.be/yt13",
+    "source_metadata": {"channel": "AI Automators"}
+  },
+  {
+    "workflow": "WhatsApp Leads → Google Sheets",
+    "platform": "YouTube",
+    "popularity_metrics": {"views": 35660, "likes": 1600, "comments": 198},
+    "country": "IN",
+    "source_url": "https://youtu.be/yt14",
+    "source_metadata": {"channel": "Growth Ops"}
+  },
+  {
+    "workflow": "Shopify Orders → Slack",
+    "platform": "YouTube",
+    "popularity_metrics": {"views": 18770, "likes": 780, "comments": 84},
+    "country": "IN",
+    "source_url": "https://youtu.be/yt15",
+    "source_metadata": {"channel": "SaaS Ops"}
+  },
+  {
+    "workflow": "Zendesk Ticket Escalations",
+    "platform": "YouTube",
+    "popularity_metrics": {"views": 14440, "likes": 660, "comments": 73},
+    "country": "IN",
+    "source_url": "https://youtu.be/yt16",
+    "source_metadata": {"channel": "Support Ops"}
+  },
+  {
+    "workflow": "Jira Bugs → Slack Alerts",
+    "platform": "YouTube",
+    "popularity_metrics": {"views": 21190, "likes": 940, "comments": 101},
+    "country": "IN",
+    "source_url": "https://youtu.be/yt17",
+    "source_metadata": {"channel": "DevOps Tube"}
+  },
+  {
+    "workflow": "Asana → Google Sheets Reporting",
+    "platform": "YouTube",
+    "popularity_metrics": {"views": 13200, "likes": 520, "comments": 60},
+    "country": "IN",
+    "source_url": "https://youtu.be/yt18",
+    "source_metadata": {"channel": "PM Tricks"}
+  },
+  {
+    "workflow": "Google Forms → Notion",
+    "platform": "YouTube",
+    "popularity_metrics": {"views": 24670, "likes": 1030, "comments": 118},
+    "country": "IN",
+    "source_url": "https://youtu.be/yt19",
+    "source_metadata": {"channel": "Notion Ops"}
+  },
+  {
+    "workflow": "Dropbox → Google Drive Backup",
+    "platform": "YouTube",
+    "popularity_metrics": {"views": 16550, "likes": 700, "comments": 79},
+    "country": "IN",
+    "source_url": "https://youtu.be/yt20",
+    "source_metadata": {"channel": "Cloud Ops"}
+  },
+
+  {
+    "workflow": "WhatsApp Reminders Workflow",
+    "platform": "Forum",
+    "popularity_metrics": {"replies": 48, "likes": 37, "contributors": 22, "views": 2500},
+    "country": "US",
+    "source_url": "https://community.n8n.io/t/1",
+    "source_metadata": {"topic": "whatsapp-reminders"}
+  },
+  {
+    "workflow": "Google Sheets → Slack Automation",
+    "platform": "Forum",
+    "popularity_metrics": {"replies": 32, "likes": 28, "contributors": 18, "views": 3100},
+    "country": "US",
+    "source_url": "https://community.n8n.io/t/2",
+    "source_metadata": {"topic": "sheets-slack"}
+  },
+  {
+    "workflow": "Gmail Parsing and Labels",
+    "platform": "Forum",
+    "popularity_metrics": {"replies": 21, "likes": 18, "contributors": 12, "views": 1800},
+    "country": "US",
+    "source_url": "https://community.n8n.io/t/3",
+    "source_metadata": {"topic": "gmail-parsing"}
+  },
+  {
+    "workflow": "Trello Task Reminders",
+    "platform": "Forum",
+    "popularity_metrics": {"replies": 40, "likes": 30, "contributors": 20, "views": 4200},
+    "country": "US",
+    "source_url": "https://community.n8n.io/t/4",
+    "source_metadata": {"topic": "trello-reminders"}
+  },
+  {
+    "workflow": "Stripe → Slack Notifications",
+    "platform": "Forum",
+    "popularity_metrics": {"replies": 27, "likes": 22, "contributors": 14, "views": 3300},
+    "country": "US",
+    "source_url": "https://community.n8n.io/t/5",
+    "source_metadata": {"topic": "stripe-slack"}
+  },
+  {
+    "workflow": "RSS → Slack News Bot",
+    "platform": "Forum",
+    "popularity_metrics": {"replies": 19, "likes": 15, "contributors": 10, "views": 1600},
+    "country": "US",
+    "source_url": "https://community.n8n.io/t/6",
+    "source_metadata": {"topic": "rss-slack"}
+  },
+  {
+    "workflow": "Calendly → Google Calendar Sync",
+    "platform": "Forum",
+    "popularity_metrics": {"replies": 25, "likes": 20, "contributors": 15, "views": 2900},
+    "country": "US",
+    "source_url": "https://community.n8n.io/t/7",
+    "source_metadata": {"topic": "calendly-gcal"}
+  },
+  {
+    "workflow": "OpenAI Chat Summaries",
+    "platform": "Forum",
+    "popularity_metrics": {"replies": 36, "likes": 31, "contributors": 19, "views": 5100},
+    "country": "US",
+    "source_url": "https://community.n8n.io/t/8",
+    "source_metadata": {"topic": "openai-summaries"}
+  },
+  {
+    "workflow": "Shopify Orders → Slack",
+    "platform": "Forum",
+    "popularity_metrics": {"replies": 23, "likes": 19, "contributors": 13, "views": 2600},
+    "country": "US",
+    "source_url": "https://community.n8n.io/t/9",
+    "source_metadata": {"topic": "shopify-slack"}
+  },
+  {
+    "workflow": "Jira Bug Alerts",
+    "platform": "Forum",
+    "popularity_metrics": {"replies": 29, "likes": 21, "contributors": 16, "views": 3000},
+    "country": "US",
+    "source_url": "https://community.n8n.io/t/10",
+    "source_metadata": {"topic": "jira-alerts"}
+  },
+  {
+    "workflow": "WhatsApp Reminders Workflow",
+    "platform": "Forum",
+    "popularity_metrics": {"replies": 52, "likes": 41, "contributors": 24, "views": 3800},
+    "country": "IN",
+    "source_url": "https://community.n8n.io/t/11",
+    "source_metadata": {"topic": "whatsapp-reminders"}
+  },
+  {
+    "workflow": "Google Sheets → Slack Automation",
+    "platform": "Forum",
+    "popularity_metrics": {"replies": 34, "likes": 26, "contributors": 17, "views": 3500},
+    "country": "IN",
+    "source_url": "https://community.n8n.io/t/12",
+    "source_metadata": {"topic": "sheets-slack"}
+  },
+  {
+    "workflow": "Gmail Parsing and Labels",
+    "platform": "Forum",
+    "popularity_metrics": {"replies": 22, "likes": 17, "contributors": 11, "views": 1750},
+    "country": "IN",
+    "source_url": "https://community.n8n.io/t/13",
+    "source_metadata": {"topic": "gmail-parsing"}
+  },
+  {
+    "workflow": "Trello Task Reminders",
+    "platform": "Forum",
+    "popularity_metrics": {"replies": 31, "likes": 24, "contributors": 16, "views": 2700},
+    "country": "IN",
+    "source_url": "https://community.n8n.io/t/14",
+    "source_metadata": {"topic": "trello-reminders"}
+  },
+  {
+    "workflow": "Stripe → Slack Notifications",
+    "platform": "Forum",
+    "popularity_metrics": {"replies": 18, "likes": 15, "contributors": 10, "views": 2100},
+    "country": "IN",
+    "source_url": "https://community.n8n.io/t/15",
+    "source_metadata": {"topic": "stripe-slack"}
+  },
+  {
+    "workflow": "RSS → Slack News Bot",
+    "platform": "Forum",
+    "popularity_metrics": {"replies": 17, "likes": 13, "contributors": 9, "views": 1600},
+    "country": "IN",
+    "source_url": "https://community.n8n.io/t/16",
+    "source_metadata": {"topic": "rss-slack"}
+  },
+  {
+    "workflow": "Calendly → Google Calendar Sync",
+    "platform": "Forum",
+    "popularity_metrics": {"replies": 26, "likes": 20, "contributors": 15, "views": 2400},
+    "country": "IN",
+    "source_url": "https://community.n8n.io/t/17",
+    "source_metadata": {"topic": "calendly-gcal"}
+  },
+  {
+    "workflow": "OpenAI Chat Summaries",
+    "platform": "Forum",
+    "popularity_metrics": {"replies": 33, "likes": 30, "contributors": 18, "views": 3100},
+    "country": "IN",
+    "source_url": "https://community.n8n.io/t/18",
+    "source_metadata": {"topic": "openai-summaries"}
+  },
+  {
+    "workflow": "Shopify Orders → Slack",
+    "platform": "Forum",
+    "popularity_metrics": {"replies": 21, "likes": 16, "contributors": 12, "views": 2200},
+    "country": "IN",
+    "source_url": "https://community.n8n.io/t/19",
+    "source_metadata": {"topic": "shopify-slack"}
+  },
+  {
+    "workflow": "Jira Bug Alerts",
+    "platform": "Forum",
+    "popularity_metrics": {"replies": 20, "likes": 15, "contributors": 11, "views": 2000},
+    "country": "IN",
+    "source_url": "https://community.n8n.io/t/20",
+    "source_metadata": {"topic": "jira-alerts"}
+  },
+
+  {
+    "workflow": "n8n Slack integration",
+    "platform": "Google",
+    "popularity_metrics": {"monthly_search_volume": 3600, "trend_30d_change": 0.42, "interest_score": 78},
+    "country": "US",
+    "source_url": "https://trends.google.com/trends/explore?date=today%203-m&q=n8n%20slack%20integration&geo=US",
+    "source_metadata": {"keyword": "n8n Slack integration"}
+  },
+  {
+    "workflow": "n8n WhatsApp reminders",
+    "platform": "Google",
+    "popularity_metrics": {"monthly_search_volume": 2900, "trend_30d_change": 0.35, "interest_score": 74},
+    "country": "US",
+    "source_url": "https://trends.google.com/trends/explore?date=today%203-m&q=n8n%20whatsapp%20reminders&geo=US",
+    "source_metadata": {"keyword": "n8n WhatsApp reminders"}
+  },
+  {
+    "workflow": "n8n Google Sheets",
+    "platform": "Google",
+    "popularity_metrics": {"monthly_search_volume": 5400, "trend_30d_change": 0.18, "interest_score": 82},
+    "country": "US",
+    "source_url": "https://trends.google.com/trends/explore?date=today%203-m&q=n8n%20google%20sheets&geo=US",
+    "source_metadata": {"keyword": "n8n Google Sheets"}
+  },
+  {
+    "workflow": "n8n Notion integration",
+    "platform": "Google",
+    "popularity_metrics": {"monthly_search_volume": 2200, "trend_30d_change": 0.25, "interest_score": 69},
+    "country": "US",
+    "source_url": "https://trends.google.com/trends/explore?date=today%203-m&q=n8n%20notion%20integration&geo=US",
+    "source_metadata": {"keyword": "n8n Notion integration"}
+  },
+  {
+    "workflow": "n8n Gmail automation",
+    "platform": "Google",
+    "popularity_metrics": {"monthly_search_volume": 4800, "trend_30d_change": 0.12, "interest_score": 75},
+    "country": "US",
+    "source_url": "https://trends.google.com/trends/explore?date=today%203-m&q=n8n%20gmail%20automation&geo=US",
+    "source_metadata": {"keyword": "n8n Gmail automation"}
+  },
+  {
+    "workflow": "n8n Slack integration",
+    "platform": "Google",
+    "popularity_metrics": {"monthly_search_volume": 4100, "trend_30d_change": 0.38, "interest_score": 80},
+    "country": "IN",
+    "source_url": "https://trends.google.com/trends/explore?date=today%203-m&q=n8n%20slack%20integration&geo=IN",
+    "source_metadata": {"keyword": "n8n Slack integration"}
+  },
+  {
+    "workflow": "n8n WhatsApp reminders",
+    "platform": "Google",
+    "popularity_metrics": {"monthly_search_volume": 5200, "trend_30d_change": 0.47, "interest_score": 85},
+    "country": "IN",
+    "source_url": "https://trends.google.com/trends/explore?date=today%203-m&q=n8n%20whatsapp%20reminders&geo=IN",
+    "source_metadata": {"keyword": "n8n WhatsApp reminders"}
+  },
+  {
+    "workflow": "n8n Google Sheets",
+    "platform": "Google",
+    "popularity_metrics": {"monthly_search_volume": 6000, "trend_30d_change": 0.21, "interest_score": 88},
+    "country": "IN",
+    "source_url": "https://trends.google.com/trends/explore?date=today%203-m&q=n8n%20google%20sheets&geo=IN",
+    "source_metadata": {"keyword": "n8n Google Sheets"}
+  },
+  {
+    "workflow": "n8n Notion integration",
+    "platform": "Google",
+    "popularity_metrics": {"monthly_search_volume": 3000, "trend_30d_change": 0.33, "interest_score": 73},
+    "country": "IN",
+    "source_url": "https://trends.google.com/trends/explore?date=today%203-m&q=n8n%20notion%20integration&geo=IN",
+    "source_metadata": {"keyword": "n8n Notion integration"}
+  },
+  {
+    "workflow": "n8n Gmail automation",
+    "platform": "Google",
+    "popularity_metrics": {"monthly_search_volume": 5600, "trend_30d_change": 0.19, "interest_score": 79},
+    "country": "IN",
+    "source_url": "https://trends.google.com/trends/explore?date=today%203-m&q=n8n%20gmail%20automation&geo=IN",
+    "source_metadata": {"keyword": "n8n Gmail automation"}
+  }
+]
